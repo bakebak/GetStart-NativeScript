@@ -1,0 +1,126 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Projetos\Testes\Groceries\platforms\android\app\src\main\AndroidManifest.xml:2:1-40:12
+	package
+		ADDED from C:\Projetos\Testes\Groceries\platforms\android\app\src\main\AndroidManifest.xml:3:2-38
+	android:versionName
+		ADDED from C:\Projetos\Testes\Groceries\platforms\android\app\src\main\AndroidManifest.xml:5:2-27
+		INJECTED from C:\Projetos\Testes\Groceries\platforms\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Projetos\Testes\Groceries\platforms\android\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from C:\Projetos\Testes\Groceries\platforms\android\app\src\main\AndroidManifest.xml:4:2-25
+		INJECTED from C:\Projetos\Testes\Groceries\platforms\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Projetos\Testes\Groceries\platforms\android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Projetos\Testes\Groceries\platforms\android\app\src\main\AndroidManifest.xml:2:11-69
+supports-screens
+ADDED from C:\Projetos\Testes\Groceries\platforms\android\app\src\main\AndroidManifest.xml:7:2-11:33
+	android:largeScreens
+		ADDED from C:\Projetos\Testes\Groceries\platforms\android\app\src\main\AndroidManifest.xml:10:3-30
+	android:smallScreens
+		ADDED from C:\Projetos\Testes\Groceries\platforms\android\app\src\main\AndroidManifest.xml:8:3-30
+	android:normalScreens
+		ADDED from C:\Projetos\Testes\Groceries\platforms\android\app\src\main\AndroidManifest.xml:9:3-31
+	android:xlargeScreens
+		ADDED from C:\Projetos\Testes\Groceries\platforms\android\app\src\main\AndroidManifest.xml:11:3-31
+uses-sdk
+ADDED from C:\Projetos\Testes\Groceries\platforms\android\app\src\main\AndroidManifest.xml:13:2-15:34
+MERGED from [:nativescript-optimized:] C:\Users\bruno.klein\.android\build-cache\17b599f08aa5e7a7ae4d198ff3e83606407bf392\output\AndroidManifest.xml:7:5-9:41
+MERGED from [:widgets-release:] C:\Users\bruno.klein\.android\build-cache\b806486a8e3c16e588c08dd2311eff35fa6c0dc1\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:25.3.1] C:\Users\bruno.klein\.android\build-cache\d48f6188cb4a867b5ee5ac17990d5c48aefbbd7f\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\bruno.klein\.android\build-cache\b0298884c73405b5c4edd3069ae749f92467ca24\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\bruno.klein\.android\build-cache\0282f8e237540ceeee4b621c2dc693d87c754b83\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\bruno.klein\.android\build-cache\457623bcd481559b4843255cba43798cc3fd0896\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\bruno.klein\.android\build-cache\8b39c173082a94739841af752d31d8435441f507\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] C:\Users\bruno.klein\.android\build-cache\2f9cd0a4453669bf5b340aa248a5c5d6e7d2b88f\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\bruno.klein\.android\build-cache\b5df5761c38a27ff59dfaf9cfdb2d1d60f800dc0\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\bruno.klein\.android\build-cache\2b32d6fa7f00db4ee96f0cfb6653adc676bd8ce4\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\bruno.klein\.android\build-cache\159ecdee0b21a25e7ba8addbd1d1d4476b5466d9\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\bruno.klein\.android\build-cache\fa5a7fae7ea4e602a674a6f28cb48c19ec259abe\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\bruno.klein\.android\build-cache\08bf2677ebec70deea12eaeb98b8b883de48b5ac\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\bruno.klein\.android\build-cache\628716088553c2e22ac14ef85f93f3bab9c6a39a\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] C:\Users\bruno.klein\.android\build-cache\d48f6188cb4a867b5ee5ac17990d5c48aefbbd7f\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		ADDED from C:\Projetos\Testes\Groceries\platforms\android\app\src\main\AndroidManifest.xml:15:3-32
+		INJECTED from C:\Projetos\Testes\Groceries\platforms\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Projetos\Testes\Groceries\platforms\android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\Projetos\Testes\Groceries\platforms\android\app\src\main\AndroidManifest.xml:14:3-29
+		INJECTED from C:\Projetos\Testes\Groceries\platforms\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Projetos\Testes\Groceries\platforms\android\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Projetos\Testes\Groceries\platforms\android\app\src\main\AndroidManifest.xml:17:2-76
+	android:name
+		ADDED from C:\Projetos\Testes\Groceries\platforms\android\app\src\main\AndroidManifest.xml:17:19-74
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Projetos\Testes\Groceries\platforms\android\app\src\main\AndroidManifest.xml:18:2-77
+	android:name
+		ADDED from C:\Projetos\Testes\Groceries\platforms\android\app\src\main\AndroidManifest.xml:18:19-75
+uses-permission#android.permission.INTERNET
+ADDED from C:\Projetos\Testes\Groceries\platforms\android\app\src\main\AndroidManifest.xml:19:2-63
+	android:name
+		ADDED from C:\Projetos\Testes\Groceries\platforms\android\app\src\main\AndroidManifest.xml:19:19-61
+application
+ADDED from C:\Projetos\Testes\Groceries\platforms\android\app\src\main\AndroidManifest.xml:21:2-39:16
+MERGED from [:widgets-release:] C:\Users\bruno.klein\.android\build-cache\b806486a8e3c16e588c08dd2311eff35fa6c0dc1\output\AndroidManifest.xml:11:5-12:19
+MERGED from [com.android.support:design:25.3.1] C:\Users\bruno.klein\.android\build-cache\d48f6188cb4a867b5ee5ac17990d5c48aefbbd7f\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\bruno.klein\.android\build-cache\b0298884c73405b5c4edd3069ae749f92467ca24\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\bruno.klein\.android\build-cache\0282f8e237540ceeee4b621c2dc693d87c754b83\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\bruno.klein\.android\build-cache\457623bcd481559b4843255cba43798cc3fd0896\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Users\bruno.klein\.android\build-cache\2f9cd0a4453669bf5b340aa248a5c5d6e7d2b88f\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\bruno.klein\.android\build-cache\b5df5761c38a27ff59dfaf9cfdb2d1d60f800dc0\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\bruno.klein\.android\build-cache\2b32d6fa7f00db4ee96f0cfb6653adc676bd8ce4\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\bruno.klein\.android\build-cache\159ecdee0b21a25e7ba8addbd1d1d4476b5466d9\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\bruno.klein\.android\build-cache\fa5a7fae7ea4e602a674a6f28cb48c19ec259abe\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\bruno.klein\.android\build-cache\08bf2677ebec70deea12eaeb98b8b883de48b5ac\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\bruno.klein\.android\build-cache\628716088553c2e22ac14ef85f93f3bab9c6a39a\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from C:\Projetos\Testes\Groceries\platforms\android\app\src\main\AndroidManifest.xml:25:3-35
+	android:allowBackup
+		ADDED from C:\Projetos\Testes\Groceries\platforms\android\app\src\main\AndroidManifest.xml:23:3-29
+	android:icon
+		ADDED from C:\Projetos\Testes\Groceries\platforms\android\app\src\main\AndroidManifest.xml:24:3-32
+	android:theme
+		ADDED from C:\Projetos\Testes\Groceries\platforms\android\app\src\main\AndroidManifest.xml:26:3-34
+	android:name
+		ADDED from C:\Projetos\Testes\Groceries\platforms\android\app\src\main\AndroidManifest.xml:22:3-49
+activity#com.tns.NativeScriptActivity
+ADDED from C:\Projetos\Testes\Groceries\platforms\android\app\src\main\AndroidManifest.xml:27:3-37:14
+	android:label
+		ADDED from C:\Projetos\Testes\Groceries\platforms\android\app\src\main\AndroidManifest.xml:29:4-49
+	android:configChanges
+		ADDED from C:\Projetos\Testes\Groceries\platforms\android\app\src\main\AndroidManifest.xml:30:4-65
+	android:name
+		ADDED from C:\Projetos\Testes\Groceries\platforms\android\app\src\main\AndroidManifest.xml:28:4-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Projetos\Testes\Groceries\platforms\android\app\src\main\AndroidManifest.xml:32:5-36:20
+action#android.intent.action.MAIN
+ADDED from C:\Projetos\Testes\Groceries\platforms\android\app\src\main\AndroidManifest.xml:33:5-57
+	android:name
+		ADDED from C:\Projetos\Testes\Groceries\platforms\android\app\src\main\AndroidManifest.xml:33:13-54
+category#android.intent.category.LAUNCHER
+ADDED from C:\Projetos\Testes\Groceries\platforms\android\app\src\main\AndroidManifest.xml:35:5-65
+	android:name
+		ADDED from C:\Projetos\Testes\Groceries\platforms\android\app\src\main\AndroidManifest.xml:35:15-62
+activity#com.tns.ErrorReportActivity
+ADDED from C:\Projetos\Testes\Groceries\platforms\android\app\src\main\AndroidManifest.xml:38:3-57
+	android:name
+		ADDED from C:\Projetos\Testes\Groceries\platforms\android\app\src\main\AndroidManifest.xml:38:13-55
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] C:\Users\bruno.klein\.android\build-cache\d48f6188cb4a867b5ee5ac17990d5c48aefbbd7f\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\bruno.klein\.android\build-cache\b0298884c73405b5c4edd3069ae749f92467ca24\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\bruno.klein\.android\build-cache\0282f8e237540ceeee4b621c2dc693d87c754b83\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\bruno.klein\.android\build-cache\457623bcd481559b4843255cba43798cc3fd0896\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\bruno.klein\.android\build-cache\8b39c173082a94739841af752d31d8435441f507\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\bruno.klein\.android\build-cache\2f9cd0a4453669bf5b340aa248a5c5d6e7d2b88f\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\bruno.klein\.android\build-cache\b5df5761c38a27ff59dfaf9cfdb2d1d60f800dc0\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\bruno.klein\.android\build-cache\2b32d6fa7f00db4ee96f0cfb6653adc676bd8ce4\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\bruno.klein\.android\build-cache\159ecdee0b21a25e7ba8addbd1d1d4476b5466d9\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\bruno.klein\.android\build-cache\fa5a7fae7ea4e602a674a6f28cb48c19ec259abe\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\bruno.klein\.android\build-cache\08bf2677ebec70deea12eaeb98b8b883de48b5ac\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\bruno.klein\.android\build-cache\628716088553c2e22ac14ef85f93f3bab9c6a39a\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] C:\Users\bruno.klein\.android\build-cache\d48f6188cb4a867b5ee5ac17990d5c48aefbbd7f\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] C:\Users\bruno.klein\.android\build-cache\d48f6188cb4a867b5ee5ac17990d5c48aefbbd7f\output\AndroidManifest.xml:26:9-47

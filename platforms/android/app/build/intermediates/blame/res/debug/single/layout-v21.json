@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Projetos\\Testes\\Groceries\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\bruno.klein\\.android\\build-cache\\b0298884c73405b5c4edd3069ae749f92467ca24\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Projetos\\Testes\\Groceries\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\bruno.klein\\.android\\build-cache\\b0298884c73405b5c4edd3069ae749f92467ca24\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Projetos\\Testes\\Groceries\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\bruno.klein\\.android\\build-cache\\b0298884c73405b5c4edd3069ae749f92467ca24\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Projetos\\Testes\\Groceries\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\bruno.klein\\.android\\build-cache\\b0298884c73405b5c4edd3069ae749f92467ca24\\output\\res\\layout-v21\\notification_action.xml"
+    }
+]

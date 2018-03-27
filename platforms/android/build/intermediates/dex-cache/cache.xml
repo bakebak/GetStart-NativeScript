@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\bruno.klein\.android\build-cache\17b599f08aa5e7a7ae4d198ff3e83606407bf392\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="746274223beb11b1cda7854d7eec3038695c2c93">
+        <dex dex="C:\Projetos\Testes\Groceries\platforms\android\app\build\intermediates\pre-dexed\debug\classes_1b367531968b571e32c883677d69a584f6e0ffdb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\bruno.klein\.android\build-cache\b806486a8e3c16e588c08dd2311eff35fa6c0dc1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dd431d6aa9ce9dc0d429fcd239d412a82ea0e9a7">
+        <dex dex="C:\Projetos\Testes\Groceries\platforms\android\app\build\intermediates\pre-dexed\debug\classes_3223ef4cf5ff074b254ed7e0e899e69bcb81aec3.jar" />
+    </item>
+
+</items>
